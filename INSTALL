@@ -1,0 +1,9 @@
+Building GoldenBird
+
+See doc/readme-qt.rst for instructions on building GoldenBird QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GoldenBird.
+
+See doc/build-*.txt for instructions on building GoldenBirdd,
+the intended-for-services, no-graphical-interface, reference
+implementation of GoldenBird.
